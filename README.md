@@ -11,4 +11,4 @@ Supports real-time or batch analysis
 🔧 Technologies Used
 
 Python
-Data visualization (Matplotlib, Seaborn)
+Data visualization (Matplotlib, Seaborn, )
